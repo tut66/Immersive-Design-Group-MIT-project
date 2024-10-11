@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VDD_8 Pin=R40-3
+Removed Pin From Net: NetName=VCC_+24V Pin=U10-2
+Change Component Footprint: Designator=U10 Old Footprint=Connector_2Pin_7.62 New Footprint=XT60PW-F
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Colour"; Value = "黄色"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comment_1"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "contact resistance"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190916/C428722_DFF78979486FCB0B58C1FC563067EC88.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "InterfaceType"; Value = "母头"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)插头连接器锂电池组充电接口 航模电调卧式焊板 母头 XT60PW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RatedCurrent"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RatedVoltage"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RecommendedWireGauge"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "specifications"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C428722"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "XT60PW-F_C428722"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "卧式插头"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=VCC_+24V Pin=U10-4
+Added Pin To Net: NetName=VDD Pin=R40-3
+Added Net: Name=VDD
+Added Member To Class: ClassName=1 Member=Component C56 100nF
+Added Room: Name=1
+Added Room: Name=2
+Added Room: Name=Designator

@@ -1,0 +1,306 @@
+Protel Design System Design Rule Check
+PCB File : E:\STM32\MIT Project\PCB\8 Motors\8 Motors V2\8 Motors.PcbDoc
+Date     : 2024/10/7
+Time     : 1:09:08
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.379 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.364 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.067 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.066 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.066 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.065 sq. mm
+   Violation between Un-Routed Net Constraint: Net GND Between Via (19.558mm,9.906mm) from Top Layer to Bottom Layer And Via (19.558mm,8.255mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C71-1(18.226mm,11.43mm) on Top Layer And Via (19.558mm,9.906mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (20.003mm,13.335mm) from Top Layer to Bottom Layer And Via (18.415mm,13.335mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (27.948mm,12.708mm) from Top Layer to Bottom Layer And Via (27.948mm,13.708mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (21.59mm,13.335mm) from Top Layer to Bottom Layer And Via (20.003mm,13.335mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (28.948mm,13.708mm) from Top Layer to Bottom Layer And Via (27.948mm,13.708mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (37.084mm,9.271mm) from Top Layer to Bottom Layer And Pad RJ1-2(38.354mm,7.569mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (37.084mm,9.271mm) from Top Layer to Bottom Layer And Via (37.084mm,10.986mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad RJ1-2(38.354mm,7.569mm) on Top Layer And Via (39.37mm,9.271mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (39.37mm,9.271mm) from Top Layer to Bottom Layer And Via (39.37mm,10.986mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (28.948mm,12.708mm) from Top Layer to Bottom Layer And Via (27.948mm,12.708mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (37.084mm,12.7mm) from Top Layer to Bottom Layer And Via (37.084mm,10.986mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C76-2(42.175mm,12.446mm) on Top Layer And Via (39.37mm,12.7mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (39.37mm,12.7mm) from Top Layer to Bottom Layer And Via (39.37mm,10.986mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (16.51mm,22.86mm) from Top Layer to Bottom Layer And Via (18.415mm,22.86mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (20.447mm,22.86mm) from Top Layer to Bottom Layer And Via (18.415mm,22.86mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (16.51mm,25.019mm) from Top Layer to Bottom Layer And Via (18.415mm,25.019mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (20.32mm,25.019mm) from Top Layer to Bottom Layer And Via (18.415mm,25.019mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (12.954mm,56.769mm) from Top Layer to Bottom Layer And Pad R20-1(14.523mm,57.531mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (12.954mm,56.769mm) from Top Layer to Bottom Layer And Via (12.954mm,58.039mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.112mm,55.443mm) from Top Layer to Bottom Layer And Via (24.312mm,55.465mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (24.312mm,55.465mm) from Top Layer to Bottom Layer And Via (24.312mm,56.643mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.112mm,56.643mm) from Top Layer to Bottom Layer And Via (24.312mm,56.643mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (25.512mm,55.443mm) from Top Layer to Bottom Layer And Via (25.512mm,56.643mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (25.512mm,56.643mm) from Top Layer to Bottom Layer And Via (25.512mm,57.843mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (52.959mm,56.769mm) from Top Layer to Bottom Layer And Pad R24-1(51.181mm,57.867mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (52.959mm,56.769mm) from Top Layer to Bottom Layer And Via (52.959mm,58.166mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C79-1(61.087mm,16.473mm) on Top Layer And Via (62.484mm,15.621mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (60.96mm,13.843mm) from Top Layer to Bottom Layer And Via (62.484mm,13.843mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.484mm,15.621mm) from Top Layer to Bottom Layer And Via (62.484mm,13.843mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (75.819mm,29.21mm) from Top Layer to Bottom Layer And Via (77.089mm,29.21mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (78.359mm,29.21mm) from Top Layer to Bottom Layer And Via (77.089mm,29.21mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.863mm,55.57mm) from Top Layer to Bottom Layer And Via (64.063mm,55.592mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.263mm,55.57mm) from Top Layer to Bottom Layer And Via (65.263mm,56.77mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (64.063mm,55.592mm) from Top Layer to Bottom Layer And Via (64.063mm,56.77mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.263mm,56.77mm) from Top Layer to Bottom Layer And Via (65.263mm,57.97mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (75.819mm,30.607mm) from Top Layer to Bottom Layer And Via (77.089mm,30.607mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (78.359mm,30.607mm) from Top Layer to Bottom Layer And Via (77.089mm,30.607mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (80.645mm,31.369mm) from Top Layer to Bottom Layer And Pad U13-1(81.993mm,29.859mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (80.645mm,31.369mm) from Top Layer to Bottom Layer And Via (82.296mm,31.369mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U13-1(81.993mm,29.859mm) on Top Layer And Via (82.296mm,31.369mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (90.17mm,56.769mm) from Top Layer to Bottom Layer And Via (90.17mm,58.039mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (12.954mm,58.039mm) from Top Layer to Bottom Layer And Pad R20-1(14.523mm,57.531mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.112mm,57.843mm) from Top Layer to Bottom Layer And Via (23.112mm,56.643mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (24.312mm,57.843mm) from Top Layer to Bottom Layer And Via (24.312mm,56.643mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.112mm,59.043mm) from Top Layer to Bottom Layer And Via (24.312mm,59.043mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (25.512mm,59.043mm) from Top Layer to Bottom Layer And Via (25.512mm,57.843mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-26(27.178mm,60.168mm) on Top Layer And Via (25.512mm,59.043mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-24(27.178mm,58.868mm) on Top Layer And Via (25.512mm,59.043mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-25(27.178mm,59.518mm) on Top Layer And Via (25.512mm,59.043mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (29.845mm,59.055mm) from Top Layer to Bottom Layer And Via (29.845mm,59.944mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R24-1(51.181mm,57.867mm) on Top Layer And Via (52.959mm,58.166mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (29.845mm,61.468mm) from Top Layer to Bottom Layer And Via (29.845mm,59.944mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-1(18.796mm,77.786mm) on Top Layer And Via (20.066mm,77.724mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (20.066mm,77.724mm) from Top Layer to Bottom Layer And Via (21.082mm,77.724mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (13.081mm,81.788mm) from Top Layer to Bottom Layer And Pad R7-1(11.557mm,82.759mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (13.081mm,81.788mm) from Top Layer to Bottom Layer And Via (13.081mm,83.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-14(21.518mm,78.96mm) on Top Layer And Via (21.082mm,77.724mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (22.098mm,77.724mm) from Top Layer to Bottom Layer And Via (21.082mm,77.724mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.184mm,81.385mm) from Top Layer to Bottom Layer And Via (24.384mm,81.407mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (24.384mm,81.407mm) from Top Layer to Bottom Layer And Via (24.384mm,82.585mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R7-1(11.557mm,82.759mm) on Top Layer And Via (13.081mm,83.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R4-1(14.523mm,82.55mm) on Top Layer And Via (13.081mm,81.788mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.184mm,82.585mm) from Top Layer to Bottom Layer And Via (24.384mm,82.585mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.184mm,84.985mm) from Top Layer to Bottom Layer And Via (24.384mm,84.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (23.184mm,83.785mm) from Top Layer to Bottom Layer And Via (23.184mm,82.585mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (25.584mm,82.585mm) from Top Layer to Bottom Layer And Via (25.584mm,83.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (25.584mm,81.385mm) from Top Layer to Bottom Layer And Via (25.584mm,82.585mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (24.384mm,83.785mm) from Top Layer to Bottom Layer And Via (24.384mm,82.585mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R8-1(52.07mm,83.775mm) on Top Layer And Via (53.721mm,83.312mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (29.206mm,84.963mm) from Top Layer to Bottom Layer And Via (29.206mm,85.979mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (25.584mm,84.985mm) from Top Layer to Bottom Layer And Via (24.384mm,84.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-25(27.25mm,85.46mm) on Top Layer And Via (25.584mm,84.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-24(27.25mm,84.81mm) on Top Layer And Via (25.584mm,84.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-26(27.25mm,86.11mm) on Top Layer And Via (25.584mm,84.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (29.206mm,87.41mm) from Top Layer to Bottom Layer And Track (27.25mm,87.41mm)(29.176mm,87.41mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (29.206mm,87.41mm) from Top Layer to Bottom Layer And Via (29.206mm,85.979mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R21-1(54.71mm,57.624mm) on Top Layer And Via (52.959mm,58.166mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.863mm,56.77mm) from Top Layer to Bottom Layer And Via (62.863mm,57.97mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (64.063mm,57.97mm) from Top Layer to Bottom Layer And Via (62.863mm,57.97mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.863mm,59.17mm) from Top Layer to Bottom Layer And Via (64.063mm,59.17mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.263mm,59.17mm) from Top Layer to Bottom Layer And Via (65.263mm,57.97mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-25(66.929mm,59.645mm) on Top Layer And Via (65.263mm,59.17mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-26(66.929mm,60.295mm) on Top Layer And Via (65.263mm,59.17mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-24(66.929mm,58.995mm) on Top Layer And Via (65.263mm,59.17mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (69.85mm,60.071mm) from Top Layer to Bottom Layer And Via (69.85mm,59.182mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (69.85mm,61.595mm) from Top Layer to Bottom Layer And Via (69.85mm,60.071mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R33-1(91.866mm,57.531mm) on Top Layer And Via (90.17mm,56.769mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.99mm,81.097mm) from Top Layer to Bottom Layer And Via (64.19mm,81.119mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.39mm,81.097mm) from Top Layer to Bottom Layer And Via (65.39mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (64.19mm,81.119mm) from Top Layer to Bottom Layer And Via (64.19mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (53.721mm,83.312mm) from Top Layer to Bottom Layer And Via (53.721mm,84.328mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.99mm,82.297mm) from Top Layer to Bottom Layer And Via (62.99mm,83.497mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R5-1(55.218mm,83.786mm) on Top Layer And Via (53.721mm,83.312mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.39mm,83.497mm) from Top Layer to Bottom Layer And Via (65.39mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (62.99mm,84.697mm) from Top Layer to Bottom Layer And Via (64.19mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (64.19mm,83.497mm) from Top Layer to Bottom Layer And Via (62.99mm,83.497mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.39mm,84.697mm) from Top Layer to Bottom Layer And Via (65.39mm,83.497mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (69.215mm,84.709mm) from Top Layer to Bottom Layer And Via (69.215mm,85.598mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (90.932mm,83.693mm) from Top Layer to Bottom Layer And Pad R9-1(89.281mm,84.664mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (90.932mm,83.693mm) from Top Layer to Bottom Layer And Via (90.932mm,84.963mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R9-1(89.281mm,84.664mm) on Top Layer And Via (90.932mm,84.963mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-25(67.056mm,85.172mm) on Top Layer And Via (65.39mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-24(67.056mm,84.522mm) on Top Layer And Via (65.39mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-26(67.056mm,85.822mm) on Top Layer And Via (65.39mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (69.215mm,87.122mm) from Top Layer to Bottom Layer And Via (69.215mm,85.598mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.33mm,22.262mm) from Top Layer to Bottom Layer And Track (100.293mm,22.389mm)(100.33mm,22.352mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (105.918mm,36.83mm) from Top Layer to Bottom Layer And Via (107.34mm,36.788mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (131.939mm,23.227mm) from Top Layer to Bottom Layer And Via (132.08mm,25.019mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW1-2(142.077mm,12.065mm) on Top Layer And Via (143.891mm,11.43mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (143.891mm,11.43mm) from Top Layer to Bottom Layer And Via (143.891mm,13.208mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (143.891mm,13.208mm) from Top Layer to Bottom Layer And Via (143.891mm,14.732mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.668mm,21.463mm) from Top Layer to Bottom Layer And Track (135.593mm,21.477mm)(137.682mm,21.477mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (129.54mm,30.988mm) from Top Layer to Bottom Layer And Via (131.191mm,30.988mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.201mm,55.585mm) from Top Layer to Bottom Layer And Via (101.401mm,55.607mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (101.401mm,55.607mm) from Top Layer to Bottom Layer And Via (101.401mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (102.601mm,55.585mm) from Top Layer to Bottom Layer And Via (102.601mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.201mm,56.785mm) from Top Layer to Bottom Layer And Via (101.401mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (102.601mm,56.785mm) from Top Layer to Bottom Layer And Via (102.601mm,57.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (101.401mm,57.985mm) from Top Layer to Bottom Layer And Via (101.401mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.201mm,59.185mm) from Top Layer to Bottom Layer And Via (101.401mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.201mm,57.985mm) from Top Layer to Bottom Layer And Via (100.201mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-24(104.267mm,59.01mm) on Top Layer And Via (102.601mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (102.601mm,59.185mm) from Top Layer to Bottom Layer And Via (102.601mm,57.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-25(104.267mm,59.66mm) on Top Layer And Via (102.601mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (106.68mm,59.182mm) from Top Layer to Bottom Layer And Via (106.68mm,60.071mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-26(104.267mm,60.31mm) on Top Layer And Via (102.601mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R36-1(126.111mm,57.613mm) on Top Layer And Via (127.889mm,58.039mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (106.68mm,61.595mm) from Top Layer to Bottom Layer And Via (106.68mm,60.071mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.455mm,81.097mm) from Top Layer to Bottom Layer And Via (101.655mm,81.119mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (102.855mm,81.097mm) from Top Layer to Bottom Layer And Via (102.855mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (101.655mm,81.119mm) from Top Layer to Bottom Layer And Via (101.655mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.455mm,82.297mm) from Top Layer to Bottom Layer And Via (101.655mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.455mm,83.497mm) from Top Layer to Bottom Layer And Via (100.455mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (101.655mm,83.497mm) from Top Layer to Bottom Layer And Via (101.655mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (100.455mm,84.697mm) from Top Layer to Bottom Layer And Via (101.655mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (102.855mm,83.497mm) from Top Layer to Bottom Layer And Via (102.855mm,82.297mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (102.855mm,84.697mm) from Top Layer to Bottom Layer And Via (102.855mm,83.497mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (127.254mm,82.55mm) from Top Layer to Bottom Layer And Via (127.254mm,83.82mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R22-1(125.476mm,83.521mm) on Top Layer And Via (127.254mm,83.82mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-25(104.521mm,85.172mm) on Top Layer And Via (102.855mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-24(104.521mm,84.522mm) on Top Layer And Via (102.855mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-26(104.521mm,85.822mm) on Top Layer And Via (102.855mm,84.697mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (106.68mm,84.709mm) from Top Layer to Bottom Layer And Via (106.68mm,85.598mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (106.68mm,87.122mm) from Top Layer to Bottom Layer And Via (106.68mm,85.598mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (127.889mm,56.642mm) from Top Layer to Bottom Layer And Pad R34-1(129.204mm,57.404mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (127.889mm,56.642mm) from Top Layer to Bottom Layer And Via (127.889mm,58.039mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (127.889mm,58.039mm) from Top Layer to Bottom Layer And Pad R34-1(129.204mm,57.404mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.412mm,56.785mm) from Top Layer to Bottom Layer And Via (137.412mm,57.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.412mm,55.585mm) from Top Layer to Bottom Layer And Via (138.612mm,55.607mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.412mm,59.185mm) from Top Layer to Bottom Layer And Via (138.612mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (138.612mm,55.607mm) from Top Layer to Bottom Layer And Via (138.612mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (139.812mm,55.585mm) from Top Layer to Bottom Layer And Via (139.812mm,56.785mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (139.812mm,56.785mm) from Top Layer to Bottom Layer And Via (139.812mm,57.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (138.612mm,57.985mm) from Top Layer to Bottom Layer And Via (137.412mm,57.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (139.812mm,59.185mm) from Top Layer to Bottom Layer And Via (139.812mm,57.985mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U8-24(141.478mm,59.01mm) on Top Layer And Via (139.812mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U8-25(141.478mm,59.66mm) on Top Layer And Via (139.812mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (143.51mm,59.055mm) from Top Layer to Bottom Layer And Via (143.51mm,60.071mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U8-26(141.478mm,60.31mm) on Top Layer And Via (139.812mm,59.185mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.755mm,81.122mm) from Top Layer to Bottom Layer And Via (138.955mm,81.144mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (140.155mm,81.122mm) from Top Layer to Bottom Layer And Via (140.155mm,82.322mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R19-1(128.967mm,83.303mm) on Top Layer And Via (127.254mm,82.55mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.755mm,82.322mm) from Top Layer to Bottom Layer And Via (137.755mm,83.522mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (137.755mm,84.722mm) from Top Layer to Bottom Layer And Via (138.955mm,84.722mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (138.955mm,82.322mm) from Top Layer to Bottom Layer And Via (138.955mm,81.144mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (140.155mm,82.322mm) from Top Layer to Bottom Layer And Via (140.155mm,83.522mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (138.955mm,83.522mm) from Top Layer to Bottom Layer And Via (137.755mm,83.522mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (143.51mm,61.595mm) from Top Layer to Bottom Layer And Via (143.51mm,60.071mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-24(141.821mm,84.547mm) on Top Layer And Via (140.155mm,84.722mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (140.155mm,84.722mm) from Top Layer to Bottom Layer And Via (138.955mm,84.722mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-25(141.821mm,85.197mm) on Top Layer And Via (140.155mm,84.722mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-26(141.821mm,85.847mm) on Top Layer And Via (140.155mm,84.722mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (144.145mm,84.709mm) from Top Layer to Bottom Layer And Via (144.145mm,85.598mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (144.12mm,87.147mm) from Top Layer to Bottom Layer And Via (144.145mm,85.598mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net M1D Between Via (118.289mm,41.656mm) from Top Layer to Bottom Layer And Track (118.244mm,41.611mm)(121.641mm,38.215mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net M1SL Between Via (32.956mm,78.74mm) from Top Layer to Bottom Layer And Track (32.385mm,79.248mm)(32.893mm,78.74mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net M8SL Between Via (106.807mm,17.697mm) from Top Layer to Bottom Layer And Track (104.77mm,17.697mm)(106.763mm,17.697mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC74_2 Between Pad Q2-9(26.364mm,22.86mm) on Top Layer And Track (28.546mm,20.955mm)(31.369mm,20.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC74_2 Between Pad R47-2(33.401mm,17.263mm) on Top Layer And Track (31.75mm,17.526mm)(33.02mm,18.796mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC74_2 Between Pad C74-2(31.688mm,19.05mm) on Top Layer And Track (31.75mm,17.526mm)(33.02mm,18.796mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetQ1_1 Between Pad Q1-1(32.38mm,28.063mm) on Top Layer And Via (32.385mm,26.924mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+3.3V Between Via (97.663mm,26.162mm) from Top Layer to Bottom Layer And Track (98.298mm,22.987mm)(98.298mm,27.051mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+3.3V Between Via (97.663mm,26.162mm) from Top Layer to Bottom Layer And Via (97.028mm,27.051mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+3.3V Between Via (97.028mm,27.051mm) from Top Layer to Bottom Layer And Via (97.663mm,27.813mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+3.3V Between Via (98.298mm,27.051mm) from Top Layer to Bottom Layer And Via (97.663mm,27.813mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Via (78.74mm,23.876mm) from Top Layer to Bottom Layer And Via (79.629mm,23.876mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Via (75.438mm,23.876mm) from Top Layer to Bottom Layer And Via (75.438mm,24.765mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Via (78.74mm,24.765mm) from Top Layer to Bottom Layer And Via (78.74mm,23.876mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (12.065mm,5.588mm) from Top Layer to Bottom Layer And Via (13.97mm,5.588mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (12.065mm,7.556mm) from Top Layer to Bottom Layer And Via (13.97mm,7.556mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (12.065mm,9.525mm) from Top Layer to Bottom Layer And Via (13.97mm,9.525mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (20.828mm,5.461mm) from Top Layer to Bottom Layer And Via (22.606mm,5.461mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (17.653mm,29.464mm) from Top Layer to Bottom Layer And Via (18.923mm,29.464mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (17.653mm,32.131mm) from Top Layer to Bottom Layer And Via (18.923mm,32.131mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (17.653mm,30.797mm) from Top Layer to Bottom Layer And Via (18.923mm,30.797mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (20.193mm,29.464mm) from Top Layer to Bottom Layer And Via (18.923mm,29.464mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (20.193mm,30.797mm) from Top Layer to Bottom Layer And Via (18.923mm,30.797mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (20.193mm,32.131mm) from Top Layer to Bottom Layer And Via (18.923mm,32.131mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (24.384mm,5.461mm) from Top Layer to Bottom Layer And Via (22.606mm,5.461mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (55.499mm,16.129mm) from Top Layer to Bottom Layer And Via (55.499mm,17.018mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (56.515mm,16.129mm) from Top Layer to Bottom Layer And Via (56.515mm,17.018mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (55.499mm,17.907mm) from Top Layer to Bottom Layer And Via (55.499mm,17.018mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_+24V Between Via (56.515mm,17.907mm) from Top Layer to Bottom Layer And Via (56.515mm,17.018mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (34.29mm,39.624mm) from Top Layer to Bottom Layer And Via (32.639mm,39.624mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (32.639mm,41.656mm) from Top Layer to Bottom Layer And Via (34.29mm,41.656mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (35.941mm,39.624mm) from Top Layer to Bottom Layer And Via (34.29mm,39.624mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (35.941mm,41.656mm) from Top Layer to Bottom Layer And Via (34.29mm,41.656mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Pad C10-1(17.529mm,73.152mm) on Top Layer And Via (18.923mm,74.549mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (17.145mm,77.343mm) from Top Layer to Bottom Layer And Via (17.145mm,78.613mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (18.923mm,74.549mm) from Top Layer to Bottom Layer And Via (18.923mm,75.565mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Via (10.922mm,85.598mm) from Top Layer to Bottom Layer And Pad C7-2(12.319mm,85.533mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VM Between Pad R3-1(14.505mm,85.48mm) on Top Layer And Via (15.875mm,85.598mm) from Top Layer to Bottom Layer 
+Rule Violations :271
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.032mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 271
+Time Elapsed        : 00:00:03

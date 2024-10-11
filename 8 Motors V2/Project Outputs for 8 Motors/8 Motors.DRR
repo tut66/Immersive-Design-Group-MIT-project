@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 8 Motors.PcbDoc   2024/10/7  1:13:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 8 Motors-RoundHoles.TXT
+ASCII SlotHoles File : 8 Motors-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             320       PTH        54.40inch (1381.75mm)
+T2      12mil (0.305mm)                                           Round             4         PTH        0.12inch (3.00mm)
+T3      20mil (0.5mm)                                             Round             16        PTH        11.67inch (296.51mm)
+T4      24mil (0.6mm)                                             Round             105       PTH        39.79inch (1010.67mm)
+T5      24mil (0.6mm)                                             Slot              2         PTH        1.14inch (28.83mm)
+T6      43mil (1.1mm)                                             Round             69        PTH        25.80inch (655.24mm)
+T7      110mil (2.8mm)                                            Round             2         PTH        0.28inch (7.20mm)
+T8      126mil (3.2mm)                                            Round             4         PTH        18.03inch (458.08mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              522
+
+Total Processing Time (hh:mm:ss) : 00:00:00

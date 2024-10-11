@@ -1,0 +1,32 @@
+Added Component: Designator=U19(Connector_2Pin_7.62)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barrier Type"; Value = "两面"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "黑色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comment_1"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230331/11104CA872B730518BFDFC9F574D6E42.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KF7.62-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "7.62mm 1x2P 每排P数:2 排数:1 直针 边脚 黑色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(科发)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF7.62-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "直针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Location"; Value = "边脚"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C707824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF7.62-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - AWG"; Value = "12~22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - mm2"; Value = "2.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_P Pin=U19-1
+Added Pin To Net: NetName=CAN_N Pin=U19-2
+Added Member To Class: ClassName=1 Member=Component U19 #NAME?

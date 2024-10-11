@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=00-Main.SchDoc
+Record=SheetSymbol|SourceDocument=00-Main.SchDoc|Designator=1|SchDesignator=1|FileName=01-MCU.SchDoc|SymbolType=Normal|RawFileName=01-MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00-Main.SchDoc|Designator=2|SchDesignator=2|FileName=02-8 Motors.SchDoc|SymbolType=Normal|RawFileName=02-8 Motors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00-Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=03-power.SchDoc|SymbolType=Normal|RawFileName=03-power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

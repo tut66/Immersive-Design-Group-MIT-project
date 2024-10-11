@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=VCC_+24V Pin=U10-4
+Added Pin To Net: NetName=VCC_+24V Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Room: Name=1
+Added Room: Name=2
+Added Room: Name=Designator

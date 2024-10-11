@@ -1,0 +1,30 @@
+Added Component: Designator=CN9(ZX-XH2.54-2PZZ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comment_1"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Îý"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230619/19BA6947230AA44A04D3EDD65E618FD0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Megastar(Õ×ÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C7429632"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_P Pin=CN9-1
+Added Pin To Net: NetName=CAN_N Pin=CN9-2
+Added Member To Class: ClassName=1 Member=Component CN9 #NAME?
